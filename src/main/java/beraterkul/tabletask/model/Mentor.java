@@ -1,6 +1,6 @@
 package beraterkul.tabletask.model;
 
-import lombok.AllArgsConstructor;
+import beraterkul.tabletask.enums.Gender;
 import lombok.Getter;
 import lombok.Setter;
 

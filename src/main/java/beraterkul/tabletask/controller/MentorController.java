@@ -1,6 +1,6 @@
 package beraterkul.tabletask.controller;
 
-import beraterkul.tabletask.model.Gender;
+import beraterkul.tabletask.enums.Gender;
 import beraterkul.tabletask.model.Mentor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

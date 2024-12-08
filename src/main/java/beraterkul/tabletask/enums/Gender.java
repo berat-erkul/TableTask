@@ -1,4 +1,4 @@
-package beraterkul.tabletask.model;
+package beraterkul.tabletask.enums;
 
 public enum Gender{
     MALE,
